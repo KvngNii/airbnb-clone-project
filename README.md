@@ -52,7 +52,7 @@ By completing Homey, I aim to:
 
 ---
 
-## 👥 Project Roles & Responsibilities
+## 👥 Team Roles 
 Even though this is a learning project, roles are structured to reflect real-world team collaboration:
 
 - **Project Manager:** Sets milestones, manages deadlines, coordinates the workflow  
