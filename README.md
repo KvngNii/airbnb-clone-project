@@ -20,7 +20,7 @@ By completing Homey, I aim to:
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technology Stack
 - **Frontend:** React (HTML, CSS, JavaScript)  
 - **Backend:** Node.js / Express.js  
 - **Database:** MongoDB or SQL (decision based on requirements)  
