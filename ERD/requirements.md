@@ -1,4 +1,4 @@
-# AirBnB Database Requirements
+# Homey: Airbnb Clone Database Requirements
 
 ## Overview
 This document outlines the database requirements for an AirBnB-style rental platform system. The database supports user management, property listings, booking management, payment processing, reviews, and messaging functionality.
